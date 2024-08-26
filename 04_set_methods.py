@@ -4,3 +4,5 @@ print(s,type(s))
 
 s.add("Harry")
 print(s,type(s))
+s.remove(1)
+print(s, type(s))
