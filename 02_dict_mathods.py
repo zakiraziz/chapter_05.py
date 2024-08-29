@@ -13,3 +13,4 @@ marks = {
 
 print(marks.get("Zakir2")) # prints None
 print(marks["Zakir2"]) # returns an eroor
+print (marks.get("shubham"))
